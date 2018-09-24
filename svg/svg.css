@@ -1,0 +1,7 @@
+@font-face {
+	font-family: 'svg';
+	src: url('svg.eot?1');
+	src: url('svg.eot?#iefix') format('embedded-opentype'), url('svg.woff?1') format('woff'), url('svg.ttf?1') format('truetype'), url('svg.svg#svg?1') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
